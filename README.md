@@ -241,16 +241,24 @@ Technology organizations trust Fullhouse Technologies to deliver proactive, scal
 
 ## Industries & Locations Table
 
-| Industry          | Location       |
-| ----------------- | -------------- |
-| Healthcare        | USA            |
-| Finance           | Virginia       |
-| Manufacturing     | Florida        |
-| Retail            | Colorado       |
-| Logistics         | Arizona        |
-| Technology        | North Carolina |
-| Regional Coverage | Georgia        |
+| Industry      |
+| ------------- |
+| Healthcare    |
+| Finance       |
+| Manufacturing |
+| Retail        |
+| Logistics     |
+| Technology    |
 
+| Location       |
+| -------------- |
+| USA            |
+| Virginia       |
+| Florida        |
+| Colorado       |
+| Arizona        |
+| North Carolina |
+| Georgia        |
 ---
 
 ## Why Businesses Choose Fullhouse Technologies
